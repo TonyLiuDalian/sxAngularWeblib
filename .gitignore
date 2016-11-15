@@ -1,0 +1,14 @@
+# Specifies intentionally untracked files to ignore when using Git
+#author:TonyLiu Email:beijing2008lxd@hotmail.com
+
+bower_components/
+node_modules/
+
+
+
+
+
+
+
+
+

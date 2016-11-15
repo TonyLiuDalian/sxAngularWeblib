@@ -1,0 +1,32 @@
+{
+  "name": "sxAngularWeblib",
+  "description": "",
+  "main": "sxAngularWeblib.js",
+  "authors": [
+    "beijing2008lxd <beijing2008lxd@hotmail.com>"
+  ],
+  "license": "MIT",
+  "version": "v0.1.0",
+  "private": true,  
+  "keywords": [  
+      "tonyliu",
+      "beijing2008lxd" 
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.8",
+    "angular-animate": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "angular-ui-router": "^0.3.1",
+    "angular-touch": "^1.5.8",
+    "angular-cookies": "^1.5.8",
+    "angular-bootstrap": "^2.2.0",
+    "bootstrap": "^3.3.7",
+    "angular-sanitize": "^1.5.8"
+  }
+}
