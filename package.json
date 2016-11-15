@@ -1,5 +1,5 @@
 {
-  "name": "sxAngularWeblib",
+  "name":"sxangularweblib",
   "version": "0.1.0",
   "scripts": {
     "start": "node ./bin/www"

@@ -1,15 +1,14 @@
 {
-  "name": "sxAngularWeblib",
+  "name":"sxangularweblib",
   "description": "",
-  "main": "sxAngularWeblib.js",
-  "authors": [
+  "main":"sxangularweblib.js",
+  "authors":[
     "beijing2008lxd <beijing2008lxd@hotmail.com>"
   ],
-  "license": "MIT",
-  "version": "v0.1.0", 
-  "keywords": [  
-      "tonyliu",
-      "beijing2008lxd" 
+  "license":"MIT",
+  "version":"v0.1.0", 
+  "keywords":[  
+      "sxangularweblib" 
   ],
   "homepage": "",
   "ignore": [
