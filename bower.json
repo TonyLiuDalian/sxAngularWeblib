@@ -1,12 +1,16 @@
 {
   "name":"sxangularweblib",
-  "description": "",
+  "version": "0.1.0",
+  "description": "sxangularweblib",
   "main":"sxangularweblib.js",
   "authors":[
     "beijing2008lxd <beijing2008lxd@hotmail.com>"
   ],
   "license":"MIT",
-  "version":"v0.1.0", 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TonyLiuDalian/sxAngularWeblib.git"
+  },
   "keywords":[  
       "sxangularweblib" 
   ],
